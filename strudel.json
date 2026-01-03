@@ -1,8 +1,1 @@
-{
-"_base": "https://raw.githubusercontent.com/Lumpen-8.6/SDRAM/main",
-"crt0": "crt/crt0.mp3",
-"crt1": "crt/crt1.mp3",
-"crt2": "crt/crt2.mp3",
-"crt3": "crt/crt3.mp3",
-"hdd": "tech/hdd.mp3",
-}
+{"crt":["/crt/crt0.mp3","/crt/crt1.mp3","/crt/crt2.mp3","/crt/crt3.mp3"],"tech":["/tech/hdd.mp3Wrote json to /home/lvorfiliae/samples/SDRAM/strudel.json"]}
